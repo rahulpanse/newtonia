@@ -9,8 +9,8 @@ import ttkbootstrap as tb
 import sys
 
 # Author: Rahul Panse
-# Date: 10th September, 2025 
-# Version: 1.0
+# Date: 22nd September, 2025 
+# Version: 1.1
 
 """Classical Mechanics Module
 Provides functions to compute and plot displacement, velocity, and acceleration over time.
@@ -595,4 +595,5 @@ class GUI:
 
 
 if __name__ == "__main__":
+
     GUI.help_gui()
